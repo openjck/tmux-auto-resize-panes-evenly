@@ -7,6 +7,8 @@ the client is resized.
 
 1. Add the following to your *.tmux.conf* file:
 
+```
     set -g @plugin 'openjck/tmux-auto-resize-panes-evenly'
+```
 
 2. In your text editor, type `prefix + I`
